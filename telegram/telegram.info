@@ -1,0 +1,11 @@
+PRGNAM="telegram"
+VERSION="0.6.15"
+HOMEPAGE="http://telegram.org"
+DOWNLOAD="https://tdesktop.com/linux32"
+MD5SUM="6d18c6db7fb57a15af7770f11644dc80"
+DOWNLOAD_x86_64="https://tdesktop.com/linux"
+MD5SUM_x86_64="2bafe8487a5e91860ed0a3aaa52650bb"
+REQUIRES=""
+MAINTAINER="Marco Ferraioli"
+EMAIL="marcoferraioli@live.com"
+

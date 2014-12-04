@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Telegram
+GenericName=Internet
+Comment=Telegram Desktop Chat Client
+Icon=/opt/spotify/spotify-client/Icons/spotify-linux-128.png
+Exec=telegram
+TryExec=telegram
+Terminal=false
+Type=Application
+Categories=Internet;
+
