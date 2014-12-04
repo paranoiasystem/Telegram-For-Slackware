@@ -3,6 +3,8 @@ Telegram For Slackware
 
 Package for Install Telegram on Slackware
 
+Directory telegram contains a SlackBuild Script
+
 x86_64 Install Package: Telegram-0.6.15-x86_64-1_SBo.tgz
 
 x86 Install Package: Coming Soon
