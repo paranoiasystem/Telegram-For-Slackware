@@ -1,6 +1,9 @@
 Telegram For Slackware
 ======================
 
+Created by Marco Ferraioli a.k.a. ParanoiaSystem
+Site: https://marcoferraioli.com/
+
 Package for Install Telegram on Slackware
 
 Directory telegram contains a SlackBuild Script
