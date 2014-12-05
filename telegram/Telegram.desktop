@@ -2,10 +2,9 @@
 Name=Telegram
 GenericName=Internet
 Comment=Telegram Desktop Chat Client
-Icon=telegram
-Exec=telegram
-TryExec=telegram
+Icon=Telegram
+Exec=Telegram
+TryExec=Telegram
 Terminal=false
 Type=Application
-Categories=Internet;
-
+Categories=Internet
