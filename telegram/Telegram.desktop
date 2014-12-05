@@ -2,7 +2,7 @@
 Name=Telegram
 GenericName=Internet
 Comment=Telegram Desktop Chat Client
-Icon=/opt/spotify/spotify-client/Icons/spotify-linux-128.png
+Icon=telegram
 Exec=telegram
 TryExec=telegram
 Terminal=false
